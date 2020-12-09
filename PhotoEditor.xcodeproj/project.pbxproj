@@ -13,6 +13,7 @@
 		ECE6A889257E0644008CB622 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = ECE6A887257E0644008CB622 /* Main.storyboard */; };
 		ECE6A88B257E0646008CB622 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ECE6A88A257E0646008CB622 /* Assets.xcassets */; };
 		ECE6A88E257E0646008CB622 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = ECE6A88C257E0646008CB622 /* LaunchScreen.storyboard */; };
+		ECE6A899257E0B07008CB622 /* PhotoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = ECE6A898257E0B07008CB622 /* PhotoViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		ECE6A88A257E0646008CB622 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		ECE6A88D257E0646008CB622 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		ECE6A88F257E0646008CB622 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		ECE6A898257E0B07008CB622 /* PhotoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotoViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				ECE6A883257E0644008CB622 /* SceneDelegate.swift */,
 				ECE6A885257E0644008CB622 /* ViewController.swift */,
 				ECE6A887257E0644008CB622 /* Main.storyboard */,
+				ECE6A898257E0B07008CB622 /* PhotoViewController.swift */,
 				ECE6A88A257E0646008CB622 /* Assets.xcassets */,
 				ECE6A88C257E0646008CB622 /* LaunchScreen.storyboard */,
 				ECE6A88F257E0646008CB622 /* Info.plist */,
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				ECE6A886257E0644008CB622 /* ViewController.swift in Sources */,
+				ECE6A899257E0B07008CB622 /* PhotoViewController.swift in Sources */,
 				ECE6A882257E0644008CB622 /* AppDelegate.swift in Sources */,
 				ECE6A884257E0644008CB622 /* SceneDelegate.swift in Sources */,
 			);
